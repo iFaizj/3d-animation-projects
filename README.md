@@ -10,6 +10,7 @@ A collection of 3D animation projects created using Autodesk 3ds Max as part of 
 - Physics-based animation
 - Lighting and rendering
 - Camera movement and scene composition
+[Watch Video](https://youtu.be/cclqhYdza4U)
 
 ### Animation Project 2
 - Character/environment animation
