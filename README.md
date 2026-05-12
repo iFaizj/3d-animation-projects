@@ -16,6 +16,7 @@ A collection of 3D animation projects created using Autodesk 3ds Max as part of 
 - Character/environment animation
 - Scene setup
 - Rendering and visual effects
+- [Watch Video](https://youtu.be/GP0bYEftCDQ)
 
 ---
 
